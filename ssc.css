@@ -1,0 +1,247 @@
+#li1:hover{
+	background-color: black;
+	transition-duration:  0.8s;
+	transition-timing-function: ease-in;
+}
+
+#li3:hover{
+	background-color: black;
+	transition-duration:  0.8s;
+	transition-timing-function: ease-in;
+}
+
+
+#li2:hover{
+	background-color: black;
+	transition-duration:  0.8s;
+	transition-timing-function: ease-in;
+}
+#li4:hover{
+	background-color: black;
+	transition-duration:  0.8s;
+	transition-timing-function: ease-in;
+}
+
+#cls3
+{
+	width: 100%;
+	height: auto;
+	
+}
+#cls2
+{
+	width: 100%;
+	height: auto;
+ filter: contrast(80%);
+	
+}
+#cls1
+{
+	width: 100%;
+	height: auto;
+}
+
+
+#ptag
+{
+	padding-top: 15px;
+	font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 768px)
+{
+	#cls1{margin-left: 0px;
+		max-width:100%;
+    height:auto;
+
+	}
+	#cls2{margin-left: 0px;
+		max-width:100%;
+    height:auto;
+	}
+	#cls3{margin-left: 0px;
+		max-width:100%;
+    height:auto;
+	}
+}
+
+@media(max-width: 488px)
+{
+	#hh1
+	{
+		font-size: 15px;
+	}
+	#hh2
+	{
+		font-size: 12px;
+		font-weight: bolder;
+	}
+	#hh3
+	{
+		font-size: 12px;
+		font-weight: bolder;
+	}
+	#hh33
+	{
+		font-size: 10px;
+
+	}
+	#hh22
+	{
+		font-size: 10px;
+
+	}
+	#cls1
+	{
+		
+		filter: contrast(80%);
+	}
+#cls2
+	{
+		
+		filter: contrast(70%);
+	}
+	#cls3
+	{
+		
+		filter: contrast(60%);
+	}
+
+}
+
+
+@media(min-width: 588px) and (max-width: 679px)
+{
+	#hh1
+	{
+		font-size: 18px;
+	}
+	#hh2
+	{
+		font-size: 15px;
+		font-weight: bolder;
+	}
+	#hh3
+	{
+		font-size: 15px;
+		font-weight: bolder;
+
+	}
+	#hh33
+	{
+		font-size: 13px;
+
+	}
+	#hh22
+	{
+		font-size: 13px;
+
+	}
+}
+
+
+@media(min-width: 488px) and (max-width: 588px)
+{
+	#hh1
+	{
+		font-size: 16px;
+	}
+	#hh2
+	{
+		font-size: 14px;
+		font-weight: bolder;
+		
+	}
+	#hh3
+	{
+		font-size: 14px;
+		font-weight: bolder;
+
+	}
+	#hh33
+	{
+		font-size: 12px;
+		
+		
+
+	}
+	#hh22
+	{
+		font-size: 12px;
+
+	}
+	#cls1
+	{
+		
+		filter: contrast(80%);
+	}
+#cls2
+	{
+		
+		filter: contrast(70%);
+	}
+	#cls3
+	{
+		
+		filter: contrast(60%);
+	}
+
+}
+
+@media(min-width:319px) and (max-width: 375px)
+{
+	#hh3
+	{
+		font-size: 10px;
+		font-weight: bolder;
+
+	}
+	#hh33
+	{
+		font-size: 8px;
+		
+		
+
+	}
+#cls1
+	{
+		
+		filter: contrast(80%);
+	}
+#cls2
+	{
+		
+		filter: contrast(70%);
+	}
+	#cls3
+	{
+		
+		filter: contrast(60%);
+	}
+}
+
+
+
+
+
+
+
+
